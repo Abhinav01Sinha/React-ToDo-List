@@ -1,3 +1,3 @@
 # React ToDo List
 
-Basic ToDo List creatd using React and Material UI
+Basic ToDo List creatEd using React and Material UI
